@@ -7,7 +7,7 @@ There are two options to deploy this application.  One is **Manual Build Steps**
 
 For Docker Compose, skip down to the "Docker Compose Steps" section below:
 
-## Manual Build Steps
+## Manual Build Steps       
 
 **Note:**  Tested on Ubuntu Linux 18.04 built on Digital Ocean.
 
